@@ -1,0 +1,23 @@
+{
+	x: 4.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "457784a7",
+		type: "item",
+		items: [{
+			item: "minecraft:end_stone"
+		}]
+	},
+	{
+		uid: "4acf01a6",
+		type: "item",
+		items: [{
+			item: "minecraft:purpur_block"
+		}]
+	}],
+	rewards: [{
+		uid: "8a6973ab",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

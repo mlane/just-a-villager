@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "51bffbc1",
+		type: "item",
+		items: [{
+			item: "enderio:block_alloy_smelter"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "641d7070",
+		type: "ftbmoney:money",
+		ftb_money: 1500L
+	}]
+}

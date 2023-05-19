@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "ad56c858",
+		type: "item",
+		items: [{
+			id: "xpbook:xp_tome",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c2254b92",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

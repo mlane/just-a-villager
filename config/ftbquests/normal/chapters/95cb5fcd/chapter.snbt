@@ -1,0 +1,7 @@
+{
+	title: "Tech",
+	icon: "enderio:item_ender_food",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

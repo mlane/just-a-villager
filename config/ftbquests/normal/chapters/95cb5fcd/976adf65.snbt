@@ -1,0 +1,17 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "d4452026",
+		type: "item",
+		items: [{
+			item: "enderio:item_ender_food"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "20c945fe",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

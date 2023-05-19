@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "4e3607c8",
+		type: "item",
+		items: [{
+			item: "enderio:block_soul_binder"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "38dcc92e",
+		type: "ftbmoney:money",
+		ftb_money: 2500L
+	}]
+}

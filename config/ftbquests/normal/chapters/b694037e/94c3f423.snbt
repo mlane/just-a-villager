@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "594104a7",
+		type: "item",
+		items: [{
+			item: "touhou_little_maid:maid_backpack 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c18bad4f",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

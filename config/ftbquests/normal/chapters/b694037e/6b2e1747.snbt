@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "12641fba",
+		type: "item",
+		items: [{
+			id: "touhou_little_maid:maid_joy",
+			tag: {
+				MaidJoyType: "live"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "51d1e9f7",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

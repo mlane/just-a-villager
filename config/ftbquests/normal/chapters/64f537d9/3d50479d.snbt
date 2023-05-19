@@ -1,0 +1,18 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "8787d8ba",
+		type: "item",
+		items: [{
+			item: "mca:wedding_ring_rg"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a7935d2c",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

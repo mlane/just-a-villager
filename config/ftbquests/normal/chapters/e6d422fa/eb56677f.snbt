@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "94ccae80",
+		type: "item",
+		items: [{
+			item: "toroquest:bandit_helmet"
+		}]
+	}],
+	rewards: [{
+		uid: "c7d59b00",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

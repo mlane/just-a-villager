@@ -1,0 +1,18 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "b52f0e52",
+		type: "item",
+		items: [{
+			item: "mca:baby_boy"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "13e32985",
+		type: "ftbmoney:money",
+		ftb_money: 10000L
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 10.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "b62be0b9",
+		type: "item",
+		items: [{
+			item: "enderio:item_end_steel_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0bb56226",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	}]
+}

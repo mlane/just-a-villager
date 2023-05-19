@@ -1,0 +1,17 @@
+{
+	x: 6.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "92cd9028",
+		type: "item",
+		items: [{
+			item: "enderio:block_experience_obelisk"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "34ba0885",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	}]
+}

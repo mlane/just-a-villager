@@ -1,0 +1,18 @@
+{
+	x: -4.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "ac93b8de",
+		type: "item",
+		items: [{
+			item: "betterbuilderswands:wandunbreakable"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dfa4d594",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

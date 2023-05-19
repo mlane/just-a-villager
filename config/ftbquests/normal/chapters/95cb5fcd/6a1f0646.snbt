@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "3bae1ee9",
+		type: "item",
+		items: [{
+			item: "enderio:block_farm_station"
+		}]
+	}],
+	rewards: [{
+		uid: "f5207e9a",
+		type: "ftbmoney:money",
+		ftb_money: 5000L
+	}]
+}

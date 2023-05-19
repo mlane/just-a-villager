@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "694c9e4c",
+		type: "item",
+		items: [{
+			item: "enderio:block_slice_and_splice"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f9d67720",
+		type: "ftbmoney:money",
+		ftb_money: 2500L
+	}]
+}

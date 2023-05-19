@@ -1,0 +1,20 @@
+{
+	x: -4.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "b44cdd64",
+		type: "item",
+		items: [{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "oak"
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "caf71980",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

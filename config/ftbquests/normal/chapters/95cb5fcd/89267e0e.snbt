@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "0268e235",
+		type: "item",
+		items: [{
+			item: "enderio:block_stirling_generator"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8bb73420",
+		type: "ftbmoney:money",
+		ftb_money: 1500L
+	}]
+}

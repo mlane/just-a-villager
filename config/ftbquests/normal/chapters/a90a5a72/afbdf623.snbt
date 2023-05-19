@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "c64e3ffb",
+		type: "item",
+		items: [{
+			id: "refinedstorage:controller",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b59584e4",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

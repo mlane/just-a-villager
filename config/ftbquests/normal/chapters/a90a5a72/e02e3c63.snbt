@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "3023acf2",
+		type: "item",
+		items: [{
+			item: "refinedstorage:grid"
+		}]
+	}],
+	rewards: [{
+		uid: "58517ab4",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

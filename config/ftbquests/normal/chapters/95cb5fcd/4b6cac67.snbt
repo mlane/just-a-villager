@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "57801680",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_sag_mill"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ebce9219",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

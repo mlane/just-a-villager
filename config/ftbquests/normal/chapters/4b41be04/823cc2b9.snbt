@@ -1,0 +1,25 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "a3df4ed2",
+		type: "item",
+		items: [{
+			item: "minecraft:skull 1 1"
+		}],
+		count: 3L
+	},
+	{
+		uid: "a113b085",
+		type: "item",
+		items: [{
+			item: "minecraft:soul_sand"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "e31ca453",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "4199df4e",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:backpack"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8f5e4d27",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

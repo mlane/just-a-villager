@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "c6d3921c",
+		type: "item",
+		items: [{
+			item: "refinedstorageaddons:wireless_crafting_grid"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2b2d1a8a",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

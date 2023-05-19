@@ -1,0 +1,17 @@
+{
+	x: 7.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "f810324f",
+		type: "item",
+		items: [{
+			item: "enderio:item_basic_capacitor 1 2"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f5f9a6d6",
+		type: "ftbmoney:money",
+		ftb_money: 3000L
+	}]
+}

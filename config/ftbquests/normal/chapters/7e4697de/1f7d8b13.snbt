@@ -1,0 +1,15 @@
+{
+	x: 2.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "27f80995",
+		type: "kill",
+		entity: "toroquest:toroquest_sentry",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "12103a79",
+		type: "ftbmoney:money",
+		ftb_money: 100000L
+	}]
+}

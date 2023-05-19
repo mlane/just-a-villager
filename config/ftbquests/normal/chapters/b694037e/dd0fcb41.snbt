@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "b938899b",
+		type: "item",
+		items: [{
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "touhou_little_maid:memorizable_gensokyo"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5e898c8b",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

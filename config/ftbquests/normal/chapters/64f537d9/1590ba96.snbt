@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "924c4177",
+		type: "item",
+		items: [{
+			item: "mca:rose_gold_block"
+		}]
+	}],
+	rewards: [{
+		uid: "b72bb487",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

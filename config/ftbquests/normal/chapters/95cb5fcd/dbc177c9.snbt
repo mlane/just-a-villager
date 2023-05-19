@@ -1,0 +1,17 @@
+{
+	x: 9.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "f7f71317",
+		type: "item",
+		items: [{
+			item: "enderio:block_cap_bank 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4cc94eba",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

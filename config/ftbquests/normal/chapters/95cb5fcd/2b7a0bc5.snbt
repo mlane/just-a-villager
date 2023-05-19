@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "d88c3184",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 53"
+		}]
+	}],
+	rewards: [{
+		uid: "1d1c0faa",
+		type: "ftbmoney:money",
+		ftb_money: 1500L
+	}]
+}

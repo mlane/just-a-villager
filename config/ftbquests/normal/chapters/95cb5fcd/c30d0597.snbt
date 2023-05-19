@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "10551013",
+		type: "item",
+		items: [{
+			item: "enderio:block_powered_spawner"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "66d6c321",
+		type: "ftbmoney:money",
+		ftb_money: 2500L
+	}]
+}

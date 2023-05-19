@@ -1,0 +1,18 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "48c2ee74",
+		type: "item",
+		items: [{
+			item: "mca:engagement_ring_rg"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "524e8c86",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

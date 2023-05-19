@@ -1,0 +1,17 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "2de984a6",
+		type: "item",
+		items: [{
+			item: "aroma1997sdimension:portalframe"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "cab60af1",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

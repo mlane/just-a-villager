@@ -1,0 +1,15 @@
+{
+	x: 2.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "0a2da5d1",
+		type: "kill",
+		entity: "toroquest:toroquest_fugitive",
+		value: 50L
+	}],
+	rewards: [{
+		uid: "16e4840e",
+		type: "ftbmoney:money",
+		ftb_money: 100000L
+	}]
+}

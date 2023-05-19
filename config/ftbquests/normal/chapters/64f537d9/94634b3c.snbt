@@ -1,0 +1,18 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "8eca6726",
+		type: "item",
+		items: [{
+			item: "mca:whistle"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7c5f892b",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}
