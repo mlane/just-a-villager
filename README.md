@@ -4,6 +4,10 @@
 
 &nbsp;
 
+![Just a Villager](https://github.com/mlane/just-a-villager/assets/13138738/d359991c-9d18-43c3-94cc-e0a38ce7c52c)
+
+&nbsp;
+
 ### **Curseforge:**
 
 - [https://legacy.curseforge.com/minecraft/modpacks/just-a-villager](https://legacy.curseforge.com/minecraft/modpacks/just-a-villager)
