@@ -1,16 +1,16 @@
 {
-	x: -4.5d,
+	x: -7.5d,
 	y: 0.0d,
 	tasks: [{
-		uid: "e8cf4c89",
+		uid: "d5df4602",
 		type: "item",
 		items: [{
-			item: "waystones:waystone"
+			item: "randomloot:repair_station"
 		}]
 	}],
 	rewards: [{
-		uid: "39bf3cb6",
+		uid: "dd56e197",
 		type: "ftbmoney:money",
-		ftb_money: 750L
+		ftb_money: 1000L
 	}]
 }

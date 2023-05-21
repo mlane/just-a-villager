@@ -1,0 +1,18 @@
+{
+	x: -6.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "e6b925eb",
+		type: "item",
+		items: [{
+			item: "portablecraft:portablecrafting"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e1493b3d",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

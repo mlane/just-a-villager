@@ -1,6 +1,7 @@
 {
 	x: 2.5d,
 	y: 1.5d,
+	can_repeat: true,
 	tasks: [{
 		uid: "0a2da5d1",
 		type: "kill",
@@ -11,5 +12,11 @@
 		uid: "16e4840e",
 		type: "ftbmoney:money",
 		ftb_money: 100000L
+	},
+	{
+		uid: "6d5be205",
+		type: "item",
+		item: "randomloot:titan_case",
+		count: 25
 	}]
 }

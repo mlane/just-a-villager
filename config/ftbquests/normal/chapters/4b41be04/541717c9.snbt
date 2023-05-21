@@ -1,16 +1,16 @@
 {
-	x: -4.5d,
+	x: -6.0d,
 	y: 0.0d,
 	tasks: [{
-		uid: "e8cf4c89",
+		uid: "cc482969",
 		type: "item",
 		items: [{
-			item: "waystones:waystone"
+			item: "portablecraft:portableempty"
 		}]
 	}],
 	rewards: [{
-		uid: "39bf3cb6",
+		uid: "c0096d45",
 		type: "ftbmoney:money",
-		ftb_money: 750L
+		ftb_money: 500L
 	}]
 }
