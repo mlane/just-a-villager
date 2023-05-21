@@ -1,6 +1,6 @@
 # Protect your village at all costs.
 
-##### Quests to guide through your journey
+##### +100 quests to guide you through your journey
 
 &nbsp;
 
